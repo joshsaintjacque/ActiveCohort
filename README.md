@@ -4,6 +4,10 @@ Cohort reports for ActiveRecord.
 
 ![alt tag](ActiveCohort.png)
 
+## Project State
+
+This project is in early *beta* pending the completion of issues in [milestone 1.0.0](https://github.com/joshsaintjacque/ActiveCohort/issues?q=is%3Aopen+is%3Aissue+milestone%3A1.0.0). The API is subject to change until that milestone is reached.
+
 ## Installation
 
 ActiveCohort is built to work in a Rails application.
