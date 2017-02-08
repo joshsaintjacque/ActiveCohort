@@ -1,12 +1,19 @@
 # ActiveCohort
 
-Cohort reports for ActiveRecord.
+Time-based cohort reports for ActiveRecord.
 
 ![alt tag](ActiveCohort.png)
 
 ## Project State
 
 This project is in early *beta* pending the completion of issues in [milestone 1.0.0](https://github.com/joshsaintjacque/ActiveCohort/issues?q=is%3Aopen+is%3Aissue+milestone%3A1.0.0). The API is subject to change until that milestone is reached.
+
+## What is a Cohort Analysis?
+
+From [Wikipedia](https://en.wikipedia.org/wiki/Cohort_analysis).
+
+> Cohort analysis allows a company to “see patterns clearly across the life-cycle of a customer (or user), rather than slicing across all customers blindly without accounting for the natural cycle that a customer undergoes.” By seeing these patterns of time, a company can adapt and tailor its service to those specific cohorts.
+
 
 ## Installation
 
